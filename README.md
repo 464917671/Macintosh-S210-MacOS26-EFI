@@ -1,4 +1,4 @@
-# Macintosh-S210H-EFI
+# Macintosh-S210H-MacOS26-EFI
 Macintosh S210H macos26 EFI 黑苹果 EFI
 S210 配置表
 - **CPU**：酷睿®i5 i7 i9 标压 处理器(非低压)
